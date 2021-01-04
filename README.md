@@ -1,6 +1,6 @@
 ### Hello 😎
 
-- 🔭 I’m currently working @...
+- 🔭 I’m currently working @Codeminer42
 - 🌱 I’m currently learning Clean Architecture, TDD, SOLID and Agile.
 - 💬 Ask me about programming best practices
 - 📫 Feel free to message me about anything!
