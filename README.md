@@ -1,7 +1,5 @@
 ### 😎
 
-[Checkout my blog](https://www.douglaselias.dev/)
-
 ### Games
 
 - [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
