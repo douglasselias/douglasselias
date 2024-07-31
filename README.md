@@ -1,6 +1,4 @@
-### 😎
-
-### Games
+### Some games I developed:
 
 - [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
 - [Super Asteroids - GDScript](https://github.com/douglasselias/super-asteroids)
