@@ -1,7 +1,6 @@
 ### Some games I developed:
 
 - [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
-- [Super Asteroids - GDScript](https://github.com/douglasselias/super-asteroids)
 - [Asteroids Clone - Lua](https://github.com/douglasselias/asteroids-clone)
 - [Tappy Plane - C](https://github.com/douglasselias/tappy-plane)
 - [Blockout - C](https://github.com/douglasselias/blockout)
