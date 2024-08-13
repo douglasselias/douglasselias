@@ -1,6 +1,6 @@
 ### Some games I developed:
 
-- [Rink Slider - GDScript](https://github.com/douglasselias/rink-slider)
+- [Rink Slider - C++](https://github.com/douglasselias/rink-slider)
 - [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
 - [Asteroids Clone - Lua](https://github.com/douglasselias/asteroids-clone)
 - [Tappy Plane - C](https://github.com/douglasselias/tappy-plane)
