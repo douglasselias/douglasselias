@@ -1,3 +1,26 @@
+# Hello, I'm Douglas 😎
+
+I'm Professional Fullstack Developer & Game Development Enthusiast.
+
+Tech that I know:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,jest,nodejs,nextjs,tailwindcss,c,cpp,go,postgres,sqlite" />
+  </a>
+</p>
+
+I'm a versatile developer with experience in both front-end and back-end development, as well as game development.
+Passionate about solving interesting problems, I’m currently taking time to expand my skills in game development and systems programming.
+  
+<p>
+	Check out my <a href="https://github.com/douglasselias" target="_blank">GitHub</a> for projects, and if you're interested in my coding journey, I upload programming stream VODs on my
+	<a href="https://www.youtube.com/@douglasselias" target="_blank">YouTube</a>. You can also follow me on <a href="https://twitch.tv/douglasselias" target="_blank">Twitch</a> for live coding sessions!
+</p>
+
+<p>I'm also available for hire! Send an email to: <a href="mailto:douglassantoselias@gmail.com">douglassantoselias@gmail.com</a>
+    or trough <a href="https://www.linkedin.com/in/douglasselias/" target="_blank">LinkedIn.</a>
+</p>
+
 ### Some games I developed:
 
 - [Rink Slider - C++](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
