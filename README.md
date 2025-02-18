@@ -36,7 +36,7 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [My own programming language based on Lisp](https://github.com/douglasselias/zark)
 - [Multithreaded test runner for C projects](https://github.com/douglasselias/test-runner)
 - [Single header libraries in public domain for C/C++](https://github.com/douglasselias/dse)
-- [Multithreaded files/folder CLI finder for Windows](https://github.com/douglasselias/win-finder)
+- [Multithreaded CLI files finder for Windows](https://github.com/douglasselias/win-finder)
 - [Study of popular data structures (written in C)](https://github.com/douglasselias/data-structures-in-c)
 - [Study about several parallelism concepts](https://github.com/douglasselias/parallelism-concepts)
 - [A simple JSON parse written in C](https://github.com/douglasselias/json-parser)
