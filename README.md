@@ -46,6 +46,4 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 
 ### Blog
 
-- [Lockless algorithm to traverse a tree with unbounded branching
-](https://ctrlplusblog.vercel.app/blog/lockless-unbounded-tree.html)
-- [Simple 2D platformer physics](https://ctrlplusblog.vercel.app/blog/simple-2d-platformer-physics.html)
+TBD
