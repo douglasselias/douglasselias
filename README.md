@@ -1,6 +1,6 @@
 # Hello, I'm Douglas 😎
 
-I'm Professional Fullstack Developer & Game Development Enthusiast.
+I'm Professional Fullstack Developer & Game Developer Enthusiast.
 
 Tech that I know:
 <p align="center">
