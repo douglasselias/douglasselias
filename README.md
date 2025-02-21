@@ -43,7 +43,3 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [Study about several parallelism concepts](https://github.com/douglasselias/parallelism-concepts)
 - [A simple JSON parser written in C](https://github.com/douglasselias/json-parser)
 - [Code refactoring of a multiplayer game (aimed to simplify the code)](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
-
-### Blog
-
-TBD
