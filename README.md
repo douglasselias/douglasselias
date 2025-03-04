@@ -24,6 +24,7 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 ### Some games I developed:
 
 - [Rink Slider - C++](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
+- [Multiplayer Asteroids - C](https://github.com/douglasselias/multiplayer-asteroids)
 - [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
 - [Asteroids Clone - Lua](https://github.com/douglasselias/asteroids-clone)
 - [Tappy Plane - C](https://github.com/douglasselias/tappy-plane)
