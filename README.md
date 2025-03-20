@@ -27,10 +27,7 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [2D Physics Engine - C](https://github.com/douglasselias/2d-physics-engine)
 - [Multiplayer Asteroids - C](https://github.com/douglasselias/multiplayer-asteroids)
 - [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
-- [Tappy Plane - C](https://github.com/douglasselias/tappy-plane)
-- [Blockout - C](https://github.com/douglasselias/blockout)
 - [Juicy Breakout - C++](https://github.com/douglasselias/juicy-breakout)
-- [Tic Tac Toe - C](https://github.com/douglasselias/tic-tac-toe)
 
 ### Other projects
 
