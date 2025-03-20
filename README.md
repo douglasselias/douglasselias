@@ -23,12 +23,12 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 
 ### Some games I developed:
 
-- [Rink Slider - C++](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
+- [Rink Slider](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
 - [An unfinished 2D platformer engine](https://github.com/douglasselias/2d-platformer-engine)
-- [2D Physics Engine - C](https://github.com/douglasselias/2d-physics-engine)
-- [Multiplayer Asteroids - C](https://github.com/douglasselias/multiplayer-asteroids)
-- [Super Asteroids Destroyer - C](https://github.com/douglasselias/super-asteroids-destroyer)
-- [Juicy Breakout - C++](https://github.com/douglasselias/juicy-breakout)
+- [2D Physics Engine](https://github.com/douglasselias/2d-physics-engine)
+- [Multiplayer Asteroids](https://github.com/douglasselias/multiplayer-asteroids)
+- [Super Asteroids Destroyer](https://github.com/douglasselias/super-asteroids-destroyer)
+- [Juicy Breakout](https://github.com/douglasselias/juicy-breakout)
 
 ### Other projects
 
@@ -37,10 +37,9 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [Single header libraries in public domain for C/C++](https://github.com/douglasselias/dse)
 - [Multithreaded CLI files finder for Windows](https://github.com/douglasselias/win-finder)
 - [A simple implementation of Actor Model in C](https://github.com/douglasselias/actor-model-in-c)
-- [A simple web server written in C](https://github.com/douglasselias/webserver-in-c)
-- [A multithreaded webserver using Actor Model and 'Restartable' threads on failure. Written in C](https://github.com/douglasselias/actor-model-webserver)
+- [A multithreaded webserver using Actor Model and 'Restartable' threads on failure.](https://github.com/douglasselias/actor-model-webserver)
 - [Study about several parallelism concepts](https://github.com/douglasselias/parallelism-concepts)
 - [An example of IMGUI](https://github.com/douglasselias/imgui)
-- [A simple JSON parser written in C](https://github.com/douglasselias/json-parser)
+- [A simple JSON parser](https://github.com/douglasselias/json-parser)
 - [A calculator that implements a Pratt parser for handling operator precedence](https://github.com/douglasselias/calculator)
 - [Code refactoring of a multiplayer game (aimed to simplify the code)](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
