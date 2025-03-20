@@ -39,7 +39,6 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [A simple implementation of Actor Model in C](https://github.com/douglasselias/actor-model-in-c)
 - [A simple web server written in C](https://github.com/douglasselias/webserver-in-c)
 - [A multithreaded webserver using Actor Model and 'Restartable' threads on failure. Written in C](https://github.com/douglasselias/actor-model-webserver)
-- [Study of popular data structures in C](https://github.com/douglasselias/data-structures-in-c)
 - [Study about several parallelism concepts](https://github.com/douglasselias/parallelism-concepts)
 - [An example of IMGUI](https://github.com/douglasselias/imgui)
 - [A simple JSON parser written in C](https://github.com/douglasselias/json-parser)
