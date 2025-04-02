@@ -44,4 +44,4 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [An example of IMGUI](https://github.com/douglasselias/imgui)
 - [A simple JSON parser](https://github.com/douglasselias/json-parser)
 - [A calculator that implements a Pratt parser for handling operator precedence](https://github.com/douglasselias/calculator)
-- [Code refactoring of a multiplayer game (aimed to simplify the code, by removing unnecessary abstractions, in this case the Observer Design Pattern)](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
+- [Code refactoring of a multiplayer game (aimed to simplify the code and improve performance, by removing unnecessary abstractions, in this case the Observer Design Pattern and changing the collision detection from an O(n) to an O(1) algorithm](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
