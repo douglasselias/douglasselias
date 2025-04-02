@@ -9,7 +9,7 @@ Tech that I know:
   </a>
 </p>
 
-I'm a versatile developer with experience in both front-end and back-end development, as well as game development.
+I'm a versatile developer with experience in both frontend and backend development, as well as game development.
 Passionate about solving interesting problems, I’m currently taking time to expand my skills in game development and systems programming.
   
 <p>
@@ -24,7 +24,9 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 ### Some games I developed:
 
 - [Rink Slider](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
-- [An unfinished 2D platformer engine](https://github.com/douglasselias/2d-platformer-engine)
+- [A study of Direct3D 11 API](https://github.com/douglasselias/dx11)
+- [A software renderer](https://github.com/douglasselias/software-renderer)
+- [A 2D platformer engine](https://github.com/douglasselias/2d-platformer-engine)
 - [2D Physics Engine](https://github.com/douglasselias/2d-physics-engine)
 - [Multiplayer Asteroids](https://github.com/douglasselias/multiplayer-asteroids)
 - [Super Asteroids Destroyer](https://github.com/douglasselias/super-asteroids-destroyer)
@@ -42,4 +44,4 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 - [An example of IMGUI](https://github.com/douglasselias/imgui)
 - [A simple JSON parser](https://github.com/douglasselias/json-parser)
 - [A calculator that implements a Pratt parser for handling operator precedence](https://github.com/douglasselias/calculator)
-- [Code refactoring of a multiplayer game (aimed to simplify the code)](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
+- [Code refactoring of a multiplayer game (aimed to simplify the code, by removing unnecessary abstractions, in this case the Observer Design Pattern)](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
