@@ -3,11 +3,11 @@
 I'm Professional Fullstack Developer & Game Developer Enthusiast.
 
 Tech that I know:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,jest,nodejs,nextjs,tailwindcss,c,cpp,go,postgres,sqlite" />
-  </a>
-</p>
+
+- **Languages:** TypeScript, JavaScript (NodeJS), HTML, CSS, Go, C, C++
+- **Databases:** Postgres, SQLite
+- **Frameworks:** NestJS, NextJS
+- **Libs:** ReactJS, Redux, TailwindCSS, Styled Components, ExpressJS
 
 I'm a versatile developer with experience in both frontend and backend development, as well as game development.
 Passionate about solving interesting problems, I’m currently taking time to expand my skills in game development and systems programming.
