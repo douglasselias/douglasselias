@@ -24,7 +24,7 @@ Passionate about solving interesting problems, I’m currently taking time to ex
 ### Some games I developed:
 
 - [Rink Slider](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
-- [A study of Direct3D 11 API](https://github.com/douglasselias/dx11)
+- [A modern tutorial for Direct3D 11 API](https://github.com/douglasselias/modern-dx11-tutorial)
 - [A software renderer](https://github.com/douglasselias/software-renderer)
 - [A 2D platformer engine](https://github.com/douglasselias/2d-platformer-engine)
 - [2D Physics Engine](https://github.com/douglasselias/2d-physics-engine)
