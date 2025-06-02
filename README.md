@@ -7,7 +7,10 @@ Tech that I know:
 - **Languages:** TypeScript, JavaScript (NodeJS), HTML, CSS, Go, C, C++
 - **Databases:** Postgres, SQLite
 - **Frameworks:** NestJS, NextJS
-- **Libs:** ReactJS, Redux, TailwindCSS, Styled Components, ExpressJS
+- **Libs:** ReactJS, Redux (Tookit), SolidJS, TailwindCSS, Styled Components, ExpressJS
+- **Cloud:** AWS Lambda
+- **Testes:** Jest, Playwright
+- **Tools:** Docker
 
 I'm a versatile developer with experience in both frontend and backend development, as well as game development.
 Passionate about solving interesting problems, I’m currently taking time to expand my skills in game development and systems programming.
