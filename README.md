@@ -1,16 +1,10 @@
 # Hello, I'm Douglas 😎
 
-### Some game related projects:
+### Some cool stuff:
 
 - [Rink Slider](https://github.com/douglasselias/rink-slider)
 - [A modern tutorial for Direct3D 11 API](https://github.com/douglasselias/modern-dx11-tutorial)
-- [A 2D platformer engine](https://github.com/douglasselias/2d-platformer-engine)
-- [2D Physics Engine](https://github.com/douglasselias/2d-physics-engine)
-- [Multiplayer Asteroids](https://github.com/douglasselias/multiplayer-asteroids)
 - [Juicy Breakout](https://github.com/douglasselias/juicy-breakout)
-
-### Other projects
-
 - [Multithreaded test runner for C projects](https://github.com/douglasselias/test-runner)
 - [Multithreaded CLI files finder for Windows](https://github.com/douglasselias/win-finder)
 - [A multithreaded webserver using Actor Model and 'Restartable' threads on failure.](https://github.com/douglasselias/actor-model-webserver)
