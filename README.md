@@ -13,9 +13,7 @@ I'm Professional Fullstack Developer & Game Developer Enthusiast.
 
 ### Other projects
 
-- [My own programming language based on Lisp](https://github.com/douglasselias/zark)
 - [Multithreaded test runner for C projects](https://github.com/douglasselias/test-runner)
-- [Single header libraries in public domain for C/C++](https://github.com/douglasselias/dse)
 - [Multithreaded CLI files finder for Windows](https://github.com/douglasselias/win-finder)
 - [A multithreaded webserver using Actor Model and 'Restartable' threads on failure.](https://github.com/douglasselias/actor-model-webserver)
 - [Code refactoring of a multiplayer game (aimed to simplify the code and improve performance, by removing unnecessary abstractions, in this case the Observer Design Pattern and changing the collision detection from an O(n) to an O(1) algorithm](https://github.com/douglasselias/meu-primeiro-jogo-multiplayer/commit/d7ae9131f35cfa20c18a382ec51b0912fb29933c)
