@@ -1,10 +1,8 @@
 # Hello, I'm Douglas 😎
 
-I'm Professional Fullstack Developer & Game Developer Enthusiast.
-
 ### Some game related projects:
 
-- [Rink Slider](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
+- [Rink Slider](https://github.com/douglasselias/rink-slider)
 - [A modern tutorial for Direct3D 11 API](https://github.com/douglasselias/modern-dx11-tutorial)
 - [A 2D platformer engine](https://github.com/douglasselias/2d-platformer-engine)
 - [2D Physics Engine](https://github.com/douglasselias/2d-physics-engine)
