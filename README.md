@@ -2,28 +2,6 @@
 
 I'm Professional Fullstack Developer & Game Developer Enthusiast.
 
-Tech that I know:
-
-- **Languages:** TypeScript, JavaScript (NodeJS), HTML, CSS, Go, C, C++
-- **Databases:** Postgres, SQLite
-- **Frameworks:** NestJS, NextJS
-- **Libs:** ReactJS, Redux (Tookit), SolidJS, TailwindCSS, Styled Components, ExpressJS
-- **Cloud:** AWS Lambda
-- **Testes:** Jest, Playwright
-- **Tools:** Docker
-
-I'm a versatile developer with experience in both frontend and backend development, as well as game development.
-Passionate about solving interesting problems, I’m currently taking time to expand my skills in game development and systems programming.
-  
-<p>
-	Check out my <a href="https://github.com/douglasselias" target="_blank">GitHub</a> for projects, and if you're interested in my coding journey, I upload programming stream VODs on my
-	<a href="https://www.youtube.com/@douglasselias" target="_blank">YouTube</a>. You can also follow me on <a href="https://twitch.tv/douglasselias" target="_blank">Twitch</a> for live coding sessions!
-</p>
-
-<p>I'm also available for hire! Send an email to: <a href="mailto:douglassantoselias@gmail.com">douglassantoselias@gmail.com</a>
-    or trough <a href="https://www.linkedin.com/in/douglasselias/" target="_blank">LinkedIn.</a>
-</p>
-
 ### Some games I developed:
 
 - [Rink Slider](https://github.com/douglasselias/rink-slider) | [Itch.io page](https://douglasselias.itch.io/rink-slider)
