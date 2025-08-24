@@ -1,5 +1,5 @@
-# Hello, I'm Douglas 😎
+## Hello, I'm Douglas 😎
 
-A chill programmer.
+### A chill programmer.
 
-Interested in game dev.
+### Interested in game dev.
